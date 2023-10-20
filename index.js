@@ -23,4 +23,5 @@ const start = async () => {
   console.timeEnd('test');
 }
 
-await start();
+// Try to run this code with `node index.js` command. or index.html
+// await start();
